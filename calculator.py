@@ -21,6 +21,6 @@ while run:
             print("Your number is:", round(num1/num2, 3))
             break
     else:
-      print("That is not an option")
+      print(f"{user} is not an option")
 
 
